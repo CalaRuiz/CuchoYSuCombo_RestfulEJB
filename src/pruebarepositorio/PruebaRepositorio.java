@@ -5,6 +5,8 @@
  */
 package pruebarepositorio;
 
+import java.time.Clock;
+
 /**
  *
  * @author LAB.INFORMATICA12
@@ -16,6 +18,7 @@ public class PruebaRepositorio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Prueba");
     }
     
 }
